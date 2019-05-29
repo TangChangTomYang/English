@@ -29,7 +29,8 @@ he broke it and you had to pay to get it repaired.
 
 1> you will say no.
 2> you will let your friend borrow it without saying anything.
-3> you will let your friend borrow it , but tell him that if the camera is broke again , he will have to pay to get it repaired.
+3> you will let your friend borrow it , but tell him that if the camera is broke again ,
+ he will have to pay to get it repaired.
 
 ```
 
@@ -47,7 +48,8 @@ to class .
 0.
 1> you will ignore the bell and go somewhere quiet to calm your friend down
 2> tell your friend that you've got to go to class;
-3> tell your friend that you are concerned about him and you will meet after class and talk then
+3> tell your friend that you are concerned about him and you will meet 
+after class and talk then
 
 
 
