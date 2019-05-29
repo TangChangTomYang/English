@@ -35,13 +35,16 @@ he broke it and you had to pay to get it repaired.
 
 <br>
 
-> upset 
-calm ... down  安抚某人
+> come to school 上学
+upset 心烦意乱, 不安的, 不适的
+calm ... down  安抚某人, 使...平静
+be concerned about 关心, 挂念
+have got to 不得不, 必须
 
 ```
 your friend comes to school very upset, the bell rings so you need to go
 to class .
-
+0.
 1> you will ignore the bell and go somewhere quiet to calm your friend down
 2> tell your friend that you've got to go to class;
 3> tell your friend that you are concerned about him and you will meet after class and talk then
