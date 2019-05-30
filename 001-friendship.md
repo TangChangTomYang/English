@@ -99,6 +99,8 @@ make a list of... 列一个条目
 be important to sb  对某人很重要
 tell to sb  告诉 讲述 表达
 go through 经历 经受
+
+
 ```
 why do you need friends? make a list of reasons why friends are important to you.
 
