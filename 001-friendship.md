@@ -45,12 +45,72 @@ have got to 不得不, 必须
 ```
 your friend comes to school very upset, the bell rings so you need to go
 to class .
-0.
+ 
 1> you will ignore the bell and go somewhere quiet to calm your friend down
 2> tell your friend that you've got to go to class;
 3> tell your friend that you are concerned about him and you will meet 
 after class and talk then
-
-
-
 ``` 
+
+
+
+<br>
+
+> walk the dog 遛狗
+loose 松开了
+it got loose 跑开了
+pay for 为... 支付 
+cheat in 作弊, 欺骗
+
+```
+your friend has gone on holiday and asked you to take care of his dog, 
+while walking the dog ,you were careless and 
+it got loose and was hit by a car. the dog's leg was broken.
+
+1> you will take the dog to the vet, and pay the bill yourself.
+2> you will ask your parents to take the dog to the vet and pay for it.
+3> you will take the dot to the vet, but give the bill to your friend to pay.
+```
+
+
+
+<br>
+> work hard  努力工作
+look at 看
+loot at me 看着我
+
+```
+you are taking your end-of-term exam, your friend who doesn't work hark, 
+asked you to help him cheat in the exam by looking at your paper.
+
+1> you will let your friend look at your paper.
+2> you will tell your friend that he should have studied,
+ so you don't let him look at your paper.
+3> you will tell him to look at someone else's paper
+```
+
+
+
+
+<br>
+
+> make a diary 写日记
+make a list of... 列一个条目
+be important to sb  对某人很重要
+tell to sb  告诉 讲述 表达
+go through 经历 经受
+```
+why do you need friends? make a list of reasons why friends are important to you.
+
+Does a friend always have to be a person? what else can be your friend?
+
+Skim the first paragraph of the reading passage below. find who was Anne's best friend.
+
+Do you want a friend whom you could tell everything to, like your deepest feelings and thoughts.
+
+Or are you afraid that your friend would laugh at you , or would not understan what you are going through.
+
+Anne Frank wanted the first kind. so she make a diary her best friend.
+
+
+```
