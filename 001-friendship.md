@@ -120,10 +120,21 @@ Anne Frank wanted the first kind. so she made her diary her best friend.
 
 
 <br>
+> july 七月
+live in ...  生活在, 住在
+twenty-five 25 
+be discoverd 被发现
+set down ... 记下 , 写下
+a series of   一系列的
 
 ```
-Anne Frank lived in Amsterdam in NetherLands during world war II , her family was jewish , so they had to hide or they would be caught by German Nazis. she and her family hid away for nearly twenty-five months before they were discoverd. During that time the only true friend was her diary.
-she said 'I don't want to set down a series of facts in a diary as most peopple do. I want the diary itselt to be my friend and I shall call my friend Ketty. now read how she felt after being in the hiding  place since july 1942 '
+Anne Frank lived in Amsterdam in NetherLands during world war II ,
+her family was jewish so they had to hide or they would be caught by German Nazis. 
+she and her family hid away for nearly twenty-five months before they were discoverd. 
+During that time the only true friend was her diary.
+she said 'I don't want to set down a series of facts in a diary as most peopple do. 
+I want this diary itselt to be my friend and I shall call my friend Ketty. 
+now read how she felt after being in the hiding  place since july 1942 '
 
-
+```
 
