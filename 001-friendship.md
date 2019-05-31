@@ -99,6 +99,7 @@ make a list of... 列一个条目
 be important to sb  对某人很重要
 tell to sb  告诉 讲述 表达
 go through 经历 经受
+afraid that ... 害怕 ...
 
 
 ```
@@ -112,7 +113,17 @@ Do you want a friend whom you could tell everything to, like your deepest feelin
 
 Or are you afraid that your friend would laugh at you , or would not understan what you are going through.
 
-Anne Frank wanted the first kind. so she make a diary her best friend.
+Anne Frank wanted the first kind. so she made her diary her best friend.
 
 
 ```
+
+
+<br>
+
+```
+Anne Frank lived in Amsterdam in NetherLands during world war II , her family was jewish , so they had to hide or they would be caught by German Nazis. she and her family hid away for nearly twenty-five months before they were discoverd. During that time the only true friend was her diary.
+she said 'I don't want to set down a series of facts in a diary as most peopple do. I want the diary itselt to be my friend and I shall call my friend Ketty. now read how she felt after being in the hiding  place since july 1942 '
+
+
+
