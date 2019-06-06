@@ -73,7 +73,8 @@ disease 英 [dɪˈziːz]   美 [dɪˈziːz]  n.病;疾病;弊端;恶疾;痼疾
 Africa : 英 ['æfrɪkə]   美 [ˈæfrəkə]  n.非洲
 continent 英 [ˈkɒntɪnənt]   美 [ˈkɑːntɪnənt]  n.大陆;陆地;洲;欧洲大陆(不包括英国和爱尔兰)
 suffer 遭受, 忍受
-
+thirty [ˈθɜːti]  三十
+eight 英 [eɪt] 8
 
 ```
 On May 22nd the World Health Organisation (WHO) declared Algeria and Argentina malaria-free,
