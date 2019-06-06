@@ -77,9 +77,8 @@ thirty [ˈθɜːti]  三十
 eight 英 [eɪt] 8
 
 ```
-On May 22nd the World Health Organisation (WHO) declared Algeria [æl'dʒɪərɪə] and Argentina [ˌɑ:dʒənˈti:nə] malaria-free [məˈleəriə],
-bringing to 38 the nuber of countries now officially rid of the disease.
-
+On May 22nd the World Health Organisation (WHO) declared Algeria [æl'dʒɪərɪə] and Argentina [ˌɑ:dʒənˈti:nə] 
+malaria-free [məˈleəriə],bringing to 38 the nuber of countries now officially  [əˈfɪʃəli] rid of the disease [dɪˈziːz].
 
 Algeria [æl'dʒɪərɪə] will be regarded as a particular success because it is in Africa.
 The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide in 2017
