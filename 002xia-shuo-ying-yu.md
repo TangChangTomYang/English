@@ -40,3 +40,48 @@ referendum campaign
 It is a private prosecution launched of by campaigner Marcus Ball, 
 who crowdfunded $200000 for the case.
 ```
+
+
+
+
+<br>
+#### '无疟疾' 国家再添新成员
+
+> 
+22nd: Twenty-second , (Twenty英 [ˈtwenti])
+organisation : 英 [ˌɔːɡənaɪˈzeɪʃn]   美 [ˌɔːrɡənəˈzeɪʃn]  n.团体；机构
+declared : 英 [dɪˈkleəd]   美 [dɪˈklerd]  adj.公开宣布(或声明、表态)的 v.公布;宣布;宣告;表明;宣称;断言;申报(收益) declare的过去分词和过去式
+Algeria : 英 [æl'dʒɪərɪə]  n.阿尔及利亚;阿尔及利亚人民民主共和国
+Argentina : 英 [ˌɑ:dʒənˈti:nə]   美 [ˌɑrdʒənˈtinə]  n.阿根廷;阿根廷共和国;女子名
+malaria : 英 [məˈleəriə]   美 [məˈleriə]  n.疟疾
+malaria-free 无疟疾
+officially : 英 [əˈfɪʃəli]   美 [əˈfɪʃəli]  
+adv.正式地;官方地;公开地;依据法规等;据传;据公布
+rid : 英 [rɪd]   美 [rɪd]  v.去掉;去除;摆脱;摆脱;去除;消除adj.得到解脱的;摆脱…的
+disease 英 [dɪˈziːz]   美 [dɪˈziːz]  n.病;疾病;弊端;恶疾;痼疾
+
+```
+On May 22nd the World Health Organisation (WHO) declared Algeria and Argentina malaria-free,
+bringing to 38 the nuber of countries now officially rid of the disease.
+
+
+Algeria will be regarded as a particular success because it is in Africa.
+
+
+The continent suffered 90% of an estimated 219m cases worldwide in 2017
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
