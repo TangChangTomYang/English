@@ -82,8 +82,6 @@ bringing to 38 the nuber of countries now officially rid of the disease.
 
 
 Algeria [æl'dʒɪərɪə] will be regarded as a particular success because it is in Africa.
-
-
 The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide in 2017
 ```
 
