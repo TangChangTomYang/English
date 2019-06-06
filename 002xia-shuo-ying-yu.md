@@ -1,6 +1,6 @@
 
 
-#### 0605 英国前外长被指控"误导公众"
+#### 0605---英国前外长被指控"误导公众"
 
 > 
 be ordered to : 责令, 命令 xxx 做 ...
@@ -45,7 +45,7 @@ who crowdfunded $200000 for the case.
 
 
 <br>
-#### '无疟疾' 国家再添新成员
+#### 0606---'无疟疾' 国家再添新成员
 
 > 
 22nd: Twenty-second , (Twenty英 [ˈtwenti])
