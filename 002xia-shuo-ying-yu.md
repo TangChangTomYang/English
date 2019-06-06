@@ -54,11 +54,26 @@ declared : 英 [dɪˈkleəd]   美 [dɪˈklerd]  adj.公开宣布(或声明、�
 Algeria : 英 [æl'dʒɪərɪə]  n.阿尔及利亚;阿尔及利亚人民民主共和国
 Argentina : 英 [ˌɑ:dʒənˈti:nə]   美 [ˌɑrdʒənˈtinə]  n.阿根廷;阿根廷共和国;女子名
 malaria : 英 [məˈleəriə]   美 [məˈleriə]  n.疟疾
-malaria-free 无疟疾
+malaria-free 无疟疾的
+n-free : 无...的
+a stress-free job: 没有压力的工作
+lead-free fuel : 无铅汽油
+a smoke-free restaurant : 无烟餐厅
+bring to : 使得, 导致 (表示带来的一种结果)
+bring the water to boil : 把水烧开
+Her tragic stories brought tears to my eyes. 他悲惨的故事惹的我伤心落泪
 officially : 英 [əˈfɪʃəli]   美 [əˈfɪʃəli]  
 adv.正式地;官方地;公开地;依据法规等;据传;据公布
 rid : 英 [rɪd]   美 [rɪd]  v.去掉;去除;摆脱;摆脱;去除;消除adj.得到解脱的;摆脱…的
+rid of : 免于...
+be rid of sth/sb  : 表示摆脱掉... , 免去...的负担
+regard : 把.. 看做
+be regard as : 被视为...
 disease 英 [dɪˈziːz]   美 [dɪˈziːz]  n.病;疾病;弊端;恶疾;痼疾
+Africa : 英 ['æfrɪkə]   美 [ˈæfrəkə]  n.非洲
+continent 英 [ˈkɒntɪnənt]   美 [ˈkɑːntɪnənt]  n.大陆;陆地;洲;欧洲大陆(不包括英国和爱尔兰)
+suffer 遭受, 忍受
+
 
 ```
 On May 22nd the World Health Organisation (WHO) declared Algeria and Argentina malaria-free,
