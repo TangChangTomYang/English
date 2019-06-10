@@ -89,9 +89,35 @@ The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide
 
 
 
+<br>
+<br>
+#### 0610 东南亚地区对抗 "非洲猪瘟"
+
+
+> battle 英 [ˈbætl]  美 [ˈbætl]  n.战役;战斗;搏斗;较量;争论;斗争;奋斗v.搏斗;奋斗;斗争
+battle field 战场
+contain 控制包含
+contagious 英 [kənˈteɪdʒəs]   美 [kənˈteɪdʒəs]  adj.(疾病)接触传染的;患接触性传染病
+swine 英 [swaɪn]  美 [swaɪn]  n.讨厌的人;令人不愉快的事物;难处理的东西;猪
+fever 英 [ˈfiːvə(r)]   美 [ˈfiːvər]  n.发烧;发热;热(病);激动不安;兴奋紧张v.使发高烧;使狂热;煽动
+Afican swine fever 非洲猪瘟
+fatal 英 [ˈfeɪtl]   美 [ˈfeɪtl]  adj.致命的;灾难性的;毁灭性的;导致失败的
+August 英 [ˈɔːɡəst]   美 [ˈɔːɡəst]  n.八月
+havoc 英 [ˈhævək]   美 [ˈhævək]  n.灾害;祸患;浩劫
 
 
 
+```
+south-east Asia is battling to contain the spread of highly contagious [kənˈteɪdʒəs] African swine fever,
+known as 'pig Ebola', which  has already led to the culling of millions of pigs
+in china and Vietnam.
+
+African swine [swaɪn] fever, which is harmless to humans but fatal to pigs, was discovered in china in August [ˈɔːɡəst], 
+where it was caused hovoc [ˈhævək], leading to more than 1.2m pigs being culled.
+
+China is home to almost half of the world's pigs and
+ the news sent the global price of pork soaring.
+```
 
 
 
