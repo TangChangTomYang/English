@@ -87,6 +87,21 @@ The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide
 ```
 
 
+<br>
+<br>
+#### 0607  以色列大选再起波澜
+> 
+Israeli 以色列的, 以色列人的
+
+
+
+```
+Israeli law makes have voted to disssolve pariament after Prime Minister Benjamin Netanyahu failed to form a coalition government.
+
+The vote triggered a fresh election, which will be held on 17 September.
+
+Mr Netanyahu was unable to reach a deal for a fresh right-wing coalition following last month's election
+```
 
 
 <br>
