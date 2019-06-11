@@ -158,8 +158,18 @@ China is home to almost half of the world's pigs and
 
 ***
 
+<br>
+<br>
+#### 0611 美国总统和伦敦市长互怼
 
+```
+When presidents embark on prestigious state visits abroad, in the past they were expected to leave their political disputes at home and put on a friendly face for n hosting them.
 
+But when President Trump arrived in London on Monday for a long-delayed state visit to Britain, he ignored both custom.
+
+Circling back to a longfeud with Sadiq Khan, London's first Muslim mayor and a vocal critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' to the visiting President of the United States, by far the most importantally of the United Kingdom"
+
+```
 
 
 
