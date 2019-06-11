@@ -1,6 +1,6 @@
 
 
-#### 0605 英国前外长被指控"误导公众"
+#### 0605---英国前外长被指控"误导公众"
 
 
 > 
@@ -41,3 +41,164 @@ referendum campaign
 It is a private prosecution launched of by campaigner Marcus Ball, 
 who crowdfunded $200000 for the case.
 ```
+
+
+***
+ 
+
+
+<br>
+#### 0606---'无疟疾' 国家再添新成员
+
+> 
+22nd: Twenty-second , (Twenty英 [ˈtwenti])
+organisation : 英 [ˌɔːɡənaɪˈzeɪʃn]   美 [ˌɔːrɡənəˈzeɪʃn]  n.团体；机构
+declared : 英 [dɪˈkleəd]   美 [dɪˈklerd]  adj.公开宣布(或声明、表态)的 v.公布;宣布;宣告;表明;宣称;断言;申报(收益) declare的过去分词和过去式
+Algeria : 英 [æl'dʒɪərɪə]  n.阿尔及利亚;阿尔及利亚人民民主共和国
+Argentina : 英 [ˌɑ:dʒənˈti:nə]   美 [ˌɑrdʒənˈtinə]  n.阿根廷;阿根廷共和国;女子名
+malaria : 英 [məˈleəriə]   美 [məˈleriə]  n.疟疾
+malaria-free 无疟疾的
+n-free : 无...的
+a stress-free job: 没有压力的工作
+lead-free fuel : 无铅汽油
+a smoke-free restaurant : 无烟餐厅
+bring to : 使得, 导致 (表示带来的一种结果)
+bring the water to boil : 把水烧开
+Her tragic stories brought tears to my eyes. 他悲惨的故事惹的我伤心落泪
+officially : 英 [əˈfɪʃəli]   美 [əˈfɪʃəli]  
+adv.正式地;官方地;公开地;依据法规等;据传;据公布
+rid : 英 [rɪd]   美 [rɪd]  v.去掉;去除;摆脱;摆脱;去除;消除adj.得到解脱的;摆脱…的
+rid of : 免于...
+be rid of sth/sb  : 表示摆脱掉... , 免去...的负担
+regard : 把.. 看做
+be regard as : 被视为...
+disease 英 [dɪˈziːz]   美 [dɪˈziːz]  n.病;疾病;弊端;恶疾;痼疾
+Africa : 英 ['æfrɪkə]   美 [ˈæfrəkə]  n.非洲
+continent 英 [ˈkɒntɪnənt]   美 [ˈkɑːntɪnənt]  n.大陆;陆地;洲;欧洲大陆(不包括英国和爱尔兰)
+suffer 遭受, 忍受
+thirty [ˈθɜːti]  三十
+eight 英 [eɪt] 8
+
+```
+On May 22nd the World Health Organisation (WHO) declared Algeria [æl'dʒɪərɪə] and Argentina [ˌɑ:dʒənˈti:nə] 
+malaria-free [məˈleəriə],bringing to 38 the nuber of countries now officially  [əˈfɪʃəli] rid of the disease [dɪˈziːz].
+
+Algeria [æl'dʒɪərɪə] will be regarded as a particular success because it is in Africa ['æfrɪkə].
+The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide in 2017
+```
+
+***
+
+
+
+
+
+
+
+
+<br>
+<br>
+#### 0607  以色列大选再起波澜
+> 
+Israeli 以色列的, 以色列人的
+
+
+
+```
+Israeli law makes have voted to disssolve pariament after Prime Minister Benjamin Netanyahu failed to form a coalition government.
+
+The vote triggered a fresh election, which will be held on 17 September.
+
+Mr Netanyahu was unable to reach a deal for a fresh right-wing coalition following last month's election
+```
+
+***
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+#### 0610 东南亚地区对抗 "非洲猪瘟"
+
+
+> battle 英 [ˈbætl]  美 [ˈbætl]  n.战役;战斗;搏斗;较量;争论;斗争;奋斗v.搏斗;奋斗;斗争
+battle field 战场
+contain 控制包含
+contagious 英 [kənˈteɪdʒəs]   美 [kənˈteɪdʒəs]  adj.(疾病)接触传染的;患接触性传染病
+swine 英 [swaɪn]  美 [swaɪn]  n.讨厌的人;令人不愉快的事物;难处理的东西;猪
+fever 英 [ˈfiːvə(r)]   美 [ˈfiːvər]  n.发烧;发热;热(病);激动不安;兴奋紧张v.使发高烧;使狂热;煽动
+Afican swine fever 非洲猪瘟
+fatal 英 [ˈfeɪtl]   美 [ˈfeɪtl]  adj.致命的;灾难性的;毁灭性的;导致失败的
+August 英 [ˈɔːɡəst]   美 [ˈɔːɡəst]  n.八月
+havoc 英 [ˈhævək]   美 [ˈhævək]  n.灾害;祸患;浩劫
+cull英 [kʌl]   美 [kʌl]  v.部分捕杀，宰杀(为防止动物种群量过多而杀掉其中一定数量)
+n.(为防止动物种群量过多而通常对最弱者的)选择性宰杀
+pork 英 [pɔːk]   美 [pɔːrk]  n.猪肉
+soar 英 [sɔː(r)]   美 [sɔːr]  v.急升;猛增;升空;升腾;高飞;翱翔
+
+
+```
+south-east Asia is battling to contain the spread of highly contagious [kənˈteɪdʒəs] African swine fever,
+known as 'pig Ebola', which  has already led to the culling of millions of pigs
+in china and Vietnam.
+
+African swine [swaɪn] fever, which is harmless to humans but fatal to pigs, was discovered in china in August [ˈɔːɡəst], 
+where it was caused hovoc [ˈhævək], leading to more than 1.2m pigs being culled.
+
+China is home to almost half of the world's pigs and
+ the news sent the global price of pork soaring.
+```
+
+
+***
+
+<br>
+<br>
+#### 0611 美国总统和伦敦市长互怼
+
+>presidents 英 [ˈprɛzɪdənts]   美 [ˈprɛzəˌdɛnts]  n.总统;国家主席;(机构、俱乐部、学院等的)会长，院长，主席;银行行长;总经理;董事长;总裁
+president的复数
+embark  英 [ɪmˈbɑːk]   美 [ɪmˈbɑːrk]  v.上船;装船
+embark on 开始做某事(start/ begin)
+prestigious 英 [preˈstɪdʒəs]   美 [preˈstɪdʒəs]  adj.有威望的;声誉高的
+state 英 [steɪt]  美 [steɪt]  n.状态;状况;情况;国家;州;邦 adj.国家提供(或控制)的;国事礼仪(或规格)的;州的;邦的 v.陈述;说明;声明;规定;公布
+state visits 国事访问
+abroad 英 [əˈbrɔːd]   美 [əˈbrɔːd]  adv.在国外;到国外;广为流传;在室外;到室外;户外
+political 英 [pəˈlɪtɪkl]   美 [pəˈlɪtɪkl]  adj.政治的;政府的;政权的;政党的;党派的;关心政治的;政治上活跃的
+dispute 英 [dɪˈspjuːt]   美 [dɪˈspjuːt]  n.争论;辩论;争端;纠纷v.对…提出质询;对…表示异议(或怀疑);争论;辩论;争执;争夺;竞争
+political dispute 政治争端
+at home 在国内 at aborad 在国外
+Britain 英 [ˈbrɪtn]   美 [ˈbrɪtn]  n.不列颠(包括英格兰、苏格兰及威尔士) 英国
+custom 英 [ˈkʌstəm]   美 [ˈkʌstəm]  n.风俗;习俗;(个人的)习惯，习性，惯常行为;(顾客对商店的)惠顾，光顾 adj.定做（制）的
+arrived in 到达
+put on 假装
+put on a brave face 假装勇敢
+long-delayed 拖延已久的
+feud 英 [fjuːd]   美 [fjuːd]  n.长期不和;争吵不休;世仇;夙怨v.长期争斗;争吵不休;世代结仇
+long feud with 和...长期的积怨
+circling back to a long fued with sadiq khan. 话说回来, 和沙迪克汗的长期积怨
+Muslim 英 [ˈmʊzlɪm]  美 [ˈmʊzlɪm]  n.穆斯林;伊斯兰教信徒adj.穆斯林的，伊斯兰教信徒的
+vocal 英 [ˈvəʊkl]   美 [ˈvoʊkl]  adj.嗓音的;发声的;大声表达的;直言不讳的 n.(乐曲中的)歌唱部分，声乐部分
+critic 英 [ˈkrɪtɪk]   美 [ˈkrɪtɪk]  n.批评家;评论家;评论员;批评者;挑剔的人
+vocal critic 直言不讳的评论家
+
+```
+When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
+ abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for  hosting them.
+
+But when President Trump arrived in London on Monday for a long-delayed state visit to Britain, he ignored both custom.
+
+Circling back to a long feud with Sadiq Khan, London's first Muslim mayor and a vocal critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' to the visiting President of the United States, by far the most importantally of the United Kingdom"
+
+```
+
+
+
+
