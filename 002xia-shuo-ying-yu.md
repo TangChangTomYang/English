@@ -162,7 +162,9 @@ China is home to almost half of the world's pigs and
 <br>
 #### 0611 美国总统和伦敦市长互怼
 
->embark  英 [ɪmˈbɑːk]   美 [ɪmˈbɑːrk]  v.上船;装船
+>presidents 英 [ˈprɛzɪdənts]   美 [ˈprɛzəˌdɛnts]  n.总统;国家主席;(机构、俱乐部、学院等的)会长，院长，主席;银行行长;总经理;董事长;总裁
+president的复数
+embark  英 [ɪmˈbɑːk]   美 [ɪmˈbɑːrk]  v.上船;装船
 prestigious 英 [preˈstɪdʒəs]   美 [preˈstɪdʒəs]  adj.有威望的;声誉高的
 state 英 [steɪt]  美 [steɪt]  n.状态;状况;情况;国家;州;邦 adj.国家提供(或控制)的;国事礼仪(或规格)的;州的;邦的 v.陈述;说明;声明;规定;公布
 abroad 英 [əˈbrɔːd]   美 [əˈbrɔːd]  adv.在国外;到国外;广为流传;在室外;到室外;户外
@@ -170,7 +172,8 @@ abroad 英 [əˈbrɔːd]   美 [əˈbrɔːd]  adv.在国外;到国外;广为流�
 
 
 ```
-When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts] abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for n hosting them.
+When presidents [ˈprɛzɪdənts] embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
+ abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for n hosting them.
 
 But when President Trump arrived in London on Monday for a long-delayed state visit to Britain, he ignored both custom.
 
