@@ -165,19 +165,32 @@ China is home to almost half of the world's pigs and
 >presidents 英 [ˈprɛzɪdənts]   美 [ˈprɛzəˌdɛnts]  n.总统;国家主席;(机构、俱乐部、学院等的)会长，院长，主席;银行行长;总经理;董事长;总裁
 president的复数
 embark  英 [ɪmˈbɑːk]   美 [ɪmˈbɑːrk]  v.上船;装船
+embark on 开始做某事(start/ begin)
 prestigious 英 [preˈstɪdʒəs]   美 [preˈstɪdʒəs]  adj.有威望的;声誉高的
 state 英 [steɪt]  美 [steɪt]  n.状态;状况;情况;国家;州;邦 adj.国家提供(或控制)的;国事礼仪(或规格)的;州的;邦的 v.陈述;说明;声明;规定;公布
+state visits 国事访问
 abroad 英 [əˈbrɔːd]   美 [əˈbrɔːd]  adv.在国外;到国外;广为流传;在室外;到室外;户外
-
-
+political 英 [pəˈlɪtɪkl]   美 [pəˈlɪtɪkl]  adj.政治的;政府的;政权的;政党的;党派的;关心政治的;政治上活跃的
+dispute 英 [dɪˈspjuːt]   美 [dɪˈspjuːt]  n.争论;辩论;争端;纠纷v.对…提出质询;对…表示异议(或怀疑);争论;辩论;争执;争夺;竞争
+political dispute 政治争端
+at home 在国内 at aborad 在国外
+Britain 英 [ˈbrɪtn]   美 [ˈbrɪtn]  n.不列颠(包括英格兰、苏格兰及威尔士) 英国
+custom 英 [ˈkʌstəm]   美 [ˈkʌstəm]  n.风俗;习俗;(个人的)习惯，习性，惯常行为;(顾客对商店的)惠顾，光顾 adj.定做（制）的
+arrived in 到达
+put on 假装
+put on a brave face 假装勇敢
+long-delayed 拖延已久的
+feud 英 [fjuːd]   美 [fjuːd]  n.长期不和;争吵不休;世仇;夙怨v.长期争斗;争吵不休;世代结仇
+long feud with 和...长期的积怨
+circling back to a long fued with sadiq khan. 话说回来, 和沙迪克汗的长期积怨
 
 ```
-When presidents [ˈprɛzɪdənts] embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
- abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for n hosting them.
+When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
+ abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for  hosting them.
 
 But when President Trump arrived in London on Monday for a long-delayed state visit to Britain, he ignored both custom.
 
-Circling back to a longfeud with Sadiq Khan, London's first Muslim mayor and a vocal critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' to the visiting President of the United States, by far the most importantally of the United Kingdom"
+Circling back to a long feud with Sadiq Khan, London's first Muslim mayor and a vocal critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' to the visiting President of the United States, by far the most importantally of the United Kingdom"
 
 ```
 
