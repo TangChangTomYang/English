@@ -42,7 +42,7 @@ who crowdfunded $200000 for the case.
 ```
 
 
-
+***
  
 
 
@@ -86,6 +86,14 @@ Algeria [æl'dʒɪərɪə] will be regarded as a particular success because it i
 The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide in 2017
 ```
 
+***
+
+
+
+
+
+
+
 
 <br>
 <br>
@@ -102,6 +110,16 @@ The vote triggered a fresh election, which will be held on 17 September.
 
 Mr Netanyahu was unable to reach a deal for a fresh right-wing coalition following last month's election
 ```
+
+***
+
+
+
+
+
+
+
+
 
 
 <br>
@@ -138,6 +156,7 @@ China is home to almost half of the world's pigs and
 ```
 
 
+***
 
 
 
