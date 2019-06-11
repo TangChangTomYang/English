@@ -183,6 +183,10 @@ long-delayed 拖延已久的
 feud 英 [fjuːd]   美 [fjuːd]  n.长期不和;争吵不休;世仇;夙怨v.长期争斗;争吵不休;世代结仇
 long feud with 和...长期的积怨
 circling back to a long fued with sadiq khan. 话说回来, 和沙迪克汗的长期积怨
+Muslim 英 [ˈmʊzlɪm]  美 [ˈmʊzlɪm]  n.穆斯林;伊斯兰教信徒adj.穆斯林的，伊斯兰教信徒的
+vocal 英 [ˈvəʊkl]   美 [ˈvoʊkl]  adj.嗓音的;发声的;大声表达的;直言不讳的 n.(乐曲中的)歌唱部分，声乐部分
+critic 英 [ˈkrɪtɪk]   美 [ˈkrɪtɪk]  n.批评家;评论家;评论员;批评者;挑剔的人
+vocal critic 直言不讳的评论家
 
 ```
 When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
