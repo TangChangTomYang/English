@@ -1,10 +1,6 @@
 
 
 #### 0605---英国前外长被指控"误导公众"
-<<<<<<< HEAD
-
-=======
->>>>>>> a235efeb517c3dbfbdddbf9729f52aa7bcac95e8
 
 > 
 be ordered to : 责令, 命令 xxx 做 ...
@@ -191,14 +187,18 @@ Muslim 英 [ˈmʊzlɪm]  美 [ˈmʊzlɪm]  n.穆斯林;伊斯兰教信徒adj.穆
 vocal 英 [ˈvəʊkl]   美 [ˈvoʊkl]  adj.嗓音的;发声的;大声表达的;直言不讳的 n.(乐曲中的)歌唱部分，声乐部分
 critic 英 [ˈkrɪtɪk]   美 [ˈkrɪtɪk]  n.批评家;评论家;评论员;批评者;挑剔的人
 vocal critic 直言不讳的评论家
+by all accounts 根据各方面说, 大家都说
+terrible 英 [ˈterəbl]   美 [ˈterəbl]  adj.非常讨厌的;令人极不快的;可怕的;危害极大的;造成极大伤害的;非常严重的;不痛快;有病
+nasty 英 [ˈnɑːsti]   美 [ˈnæsti]  adj.极差的;令人厌恶的;令人不悦的;不友好的;恶意的;令人不愉快的;危险的;严重的
+
 
 ```
 When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
  abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for  hosting them.
 
-But when President Trump arrived in London on Monday for a long-delayed state visit to Britain, he ignored both custom.
+But when President Trump arrived in London on Monday for a long-delayed state visit to Britain [ˈbrɪtn], he ignored both custom.
 
-Circling back to a long feud with Sadiq Khan, London's first Muslim mayor and a vocal critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' to the visiting President of the United States, by far the most importantally of the United Kingdom"
+Circling back to a long feud[fjuːd with Sadiq Khan, London's first Muslim [ˈmʊzlɪm] mayor [meə(r)]  and a vocal[ˈvəʊkl] critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' [ˈnɑːsti]  to the visiting President of the United States, by far the most importantally of the United Kingdom"
 
 ```
 
