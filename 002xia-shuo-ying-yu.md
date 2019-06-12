@@ -205,3 +205,42 @@ Circling back to a long feud[fjuːd with Sadiq Khan, London's first Muslim [ˈm�
 
 
 
+
+***
+
+
+<br>
+<br>
+
+#### 0612 希思罗机场将安装3D安全设备
+
+> Heathrow Airport: 希思罗机场
+City Airport 城市机场
+Gatwick Airport 盖特威克机场
+Luton Airport  卢顿机场
+liquid 英 [ˈlɪkwɪd]   美 [ˈlɪkwɪd]   n.液体 adj.液体的;液态的;易变为现金的;清澈的;明亮的;晶莹的
+liquids 英 [ˈlɪkwɪdz]   美 [ˈlɪkwədz]  n.液体, 液体物品
+liquids lunch 液体午餐(eg:饮料,酒等)
+desktop英 [ˈdesktɒp]   美 [ˈdesktɑːp]  n.桌面;台式机
+laptop 手提电脑
+invest 英 [ɪnˈvest]   美 [ɪnˈvest]  v.投资;(把资金)投入;投入(时间、精力等)
+invest in sth 在....投资
+tomography 英 [təˈmɒɡrəfi]   美 [təˈmɑːɡrəfi]  n. X射线和超声波成像技术
+computer tomography (CT) 计算机层析成像技术
+roll out 推出
+unveil 英 [ˌʌnˈveɪl]   美 [ˌʌnˈveɪl]  v.为…揭幕;揭开…上的覆盖物;拉开…的帷幔;(首次)展示，介绍，推出;将…公之于众
+launch 英 [lɔːntʃ]   美 [lɔːntʃ]   v.开始从事，发起，发动(尤指有组织的活动);(首次)上市，发行;使(船，尤指新船)下水
+
+
+launch 发射, lunch 午餐
+
+
+
+```
+Passengers at Heathrow airport will be able to keep their liquids and laptops inside their bags, once new security equipment is installed.
+
+The airport is investing $50m in the computer tomography security scanners, to be rolled out over the next few years.
+
+The technology, similar to CT scanners used in hospitals, provides a clear picture of a bag's contents.
+```
+
