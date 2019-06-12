@@ -1,5 +1,43 @@
 
 
+#### 0603 脸书股东逼宫, 小扎何去何从
+
+> call for 要求
+request 要求
+ask 要求
+stand down 退位
+abdicate 英 [ˈæbdɪkeɪt]   美 [ˈæbdɪkeɪt]  v.退位;逊位;失(职);放弃(职责)
+be expected to do sth  将...
+take place 举行, 发生
+annual英 [ˈænjuəl]   美 [ˈænjuəl]  adj.每年的;一年一次的;年度的;一年的
+n.年刊;年报;年鉴;一年生植物;一季生植物
+general meeting 股东大会
+chief executive  首席执行官(CEO)
+executive room 行政客房, 商务间
+business class 商务舱, 公务舱
+board英 [bɔːd]   美 [bɔːrd]  n.板;(尤指)木板;…用木板(或板材);(公司或其他机构的)董事会，委员会，理事会
+v.上船(或火车、飞机、公共汽车等);让乘客登机(或上船等);付费(在某人家里)膳宿
+board of directors 董事会
+
+
+```
+A vote calling for Mark Zuckerberg to stand down 
+as Facebook's chairman is expected to take palce  
+at the company's annual general meeting on Thursday
+
+Mr Zuckerberg is both Facebook's chief executive and 
+the chairman of its board of directors.
+
+those calling for him to step down as chairman 
+say this would help him focus on running the company
+
+```
+
+
+
+***
+
+<br><br>
 #### 0605---英国前外长被指控"误导公众"
 
 > 
