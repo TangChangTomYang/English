@@ -140,14 +140,13 @@ The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide
 Israeli 以色列的, 以色列人的
 
 
-
-```
+ 
 Israeli law makes have voted to disssolve pariament after Prime Minister Benjamin Netanyahu failed to form a coalition government.
 
 The vote triggered a fresh election, which will be held on 17 September.
 
 Mr Netanyahu was unable to reach a deal for a fresh right-wing coalition following last month's election
-```
+
 
 ***
 
@@ -181,17 +180,16 @@ pork 英 [pɔːk]   美 [pɔːrk]  n.猪肉
 soar 英 [sɔː(r)]   美 [sɔːr]  v.急升;猛增;升空;升腾;高飞;翱翔
 
 
-```
+
 south-east Asia is battling to contain the spread of highly contagious [kənˈteɪdʒəs] African swine fever,
-known as 'pig Ebola', which  has already led to the culling of millions of pigs
-in china and Vietnam.
+known as 'pig Ebola', which  has already led to the culling of millions of pigs in china and Vietnam.
 
 African swine [swaɪn] fever, which is harmless to humans but fatal to pigs, was discovered in china in August [ˈɔːɡəst], 
 where it was caused hovoc [ˈhævək], leading to more than 1.2m pigs being culled.
 
 China is home to almost half of the world's pigs and
  the news sent the global price of pork soaring.
-```
+
 
 
 ***
@@ -230,7 +228,7 @@ terrible 英 [ˈterəbl]   美 [ˈterəbl]  adj.非常讨厌的;令人极不快�
 nasty 英 [ˈnɑːsti]   美 [ˈnæsti]  adj.极差的;令人厌恶的;令人不悦的;不友好的;恶意的;令人不愉快的;危险的;严重的
 
 
-```
+
 When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [steɪt] visits  [ˈvɪzɪts]
  abroad [əˈbrɔːd], in the past they were expected to leave their political disputes at home and put on a friendly face for  hosting them.
 
@@ -238,7 +236,7 @@ But when President Trump arrived in London on Monday for a long-delayed state vi
 
 Circling back to a long feud[fjuːd with Sadiq Khan, London's first Muslim [ˈmʊzlɪm] mayor [meə(r)]  and a vocal[ˈvəʊkl] critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' [ˈnɑːsti]  to the visiting President of the United States, by far the most importantally of the United Kingdom"
 
-```
+
 
 
 
@@ -272,13 +270,12 @@ launch 发射, lunch 午餐
 
 
 
-```
 Passengers at Heathrow airport will be able to keep their liquids and laptops inside their bags, once new security equipment is installed.
 
 The airport is investing $50m in the computer tomography security scanners, to be rolled out over the next few years.
 
 The technology, similar to CT scanners used in hospitals, provides a clear picture of a bag's contents.
-```
+
 
 
 
