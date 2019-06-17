@@ -268,8 +268,6 @@ computer tomography (CT) 计算机层析成像技术
 roll out 推出
 unveil 英 [ˌʌnˈveɪl]   美 [ˌʌnˈveɪl]  v.为…揭幕;揭开…上的覆盖物;拉开…的帷幔;(首次)展示，介绍，推出;将…公之于众
 launch 英 [lɔːntʃ]   美 [lɔːntʃ]   v.开始从事，发起，发动(尤指有组织的活动);(首次)上市，发行;使(船，尤指新船)下水
-
-
 launch 发射, lunch 午餐
 
 
@@ -281,4 +279,72 @@ The airport is investing $50m in the computer tomography security scanners, to b
 
 The technology, similar to CT scanners used in hospitals, provides a clear picture of a bag's contents.
 ```
+
+
+
+
+
+****
+
+
+<br><br>
+
+#### 0617英保守党开启党魁之争
+
+> conservative 英 [kənˈsɜːvətɪv]   美 [kənˈsɜːrvətɪv]  adj.保守的;守旧的;(英国)保守党的;低于实际数量的n.(英国)保守党党员，保守党支持者;保守者;因循守旧者
+conservative part 保守党 
+Tory英 [ˈtɔːri]   美 [ˈtɔːri]  n.英国保守党党员(或支持者)
+adj.保守派的，保守主义的
+process 英 [ˈprəʊses]   美 [ˈprɑːses , prəˈses]  n.
+(为达到某一目标的)过程;进程;(事物发展，尤指自然变化的)过程，步骤，流程;做事方法;工艺流程;工序v.加工;处理;审阅，审核，处理(文件、请求等);数据处理
+v.列队行进;缓缓前进
+MPs: member of parts 成员
+minister 部长,大臣
+prime 主要的, 首要的
+prime minister 首相,总理
+parliament 英 [ˈpɑːləmənt]   美 [ˈpɑːrləmənt]  n.议会;国会;英国议会(包括下
+take place 发生,举行
+ballot英 [ˈbælət]   美 [ˈbælət]  n.投票选举;投票表决;选票;(选举中的)投票总数 v.要求某人(对某事)无记名投票;进行无记名投票
+secret ballot 无记名投票
+commons 英 ['kɒmənz]   美 ['kɑmənz]  n.公共用地;
+the house of commons 下议院
+lord 英 [lɔːd]   美 [lɔːrd]  n.
+(英国)贵族;勋爵(英国贵族的称号);(英国用于某些高级官员的职位前)阁下，大人，大臣v.使成贵族;作威作福，称王称霸
+the house of lords 上议院
+BST :(british summer Time) 英国夏令时
+secure 安全的, vt 获得
+Tom failed to secure at leaset voting //没能保证获得至少17票
+eliminate 英 [ɪˈlɪmɪneɪt]   美 [ɪˈlɪmɪneɪt]  v.
+排除;清除;消除;(比赛中)淘汰;消灭，干掉(尤指敌人或对手)
+contest 英 [ˈkɒntest , kənˈtest]   美 [ˈkɑːntest , kənˈtest]  
+n.比赛;竞赛
+
+
+Conservative  MPs will begin the process of choosing their new leader and the next prime minister later when a first round of voting is held in Parliament.
+
+
+Voting will take place by secret ballot in the Commons, with a result expected some time after 13.00 BSt.
+
+Any of the 10 candidates who fails to secure at least 17 votes will be eliminated from the contest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
