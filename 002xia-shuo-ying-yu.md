@@ -333,10 +333,22 @@ Any of the 10 candidates who fails to secure at least 17 votes will be eliminate
 
 #### 0618亚马逊涉嫌擅自收集用户信息
 
+> Amazon 英 [ˈæməzən]   美 [ˈæməzɑːn]  
+n.(古希腊神话中的)亚马孙族女战士;高大强悍的女人
+sue 英 [suː]   美 [suː]  v.控告;提起诉讼;
+allege 英 [əˈledʒ]   美 [əˈledʒ]  v.(未提出证据)断言，指称，声称
+firm 英 [fɜːm]   美 [fɜːrm]  n.商行;商号;公司
+adj.坚固的;坚硬的;结实的;坚定的;确定的;坚决的;牢固的;稳固的
+adv.稳固地v.使强壮;使坚固;使坚实;坚挺;稳步上涨
+consent 英 [kənˈsent]   美 [kənˈsent]  
+n.同意;准许;允许;赞同;正式批准文件;批文v.同意;准许;允许
+youngster 英 [ˈjʌŋstə(r)]   美 [ˈjʌŋstər]  n.年轻人;少年;儿童
+thus英 [ðʌs]   美 [ðʌs]  adv.以此方式;如此;这样;因此;从而;所以
 
-Amazon is being sued over its smart assistant's recordings of children.
 
-Two US cases allege the firm lacks consent to create voiceprints that could let it keep track of a youngster's use of Alexa-enabled devices and thus build up a "vast level of detail about the child's life"
+Amazon [ˈæməzən] is being sued  [suːd] over its smart assistant's recordings of children.
+
+Two US cases allege [əˈledʒ] the firm '公司' lacks consent [kənˈsent] to create voiceprints that could let it keep track of a youngster's use of Alexa-enabled devices and thus build up a "vast level of detail about the child's life"
 
 
 Amazon has said it only stores data once a device-owner has given it permission to do so.
