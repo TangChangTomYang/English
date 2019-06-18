@@ -315,6 +315,7 @@ eliminate 英 [ɪˈlɪmɪneɪt]   美 [ɪˈlɪmɪneɪt]  v.
 排除;清除;消除;(比赛中)淘汰;消灭，干掉(尤指敌人或对手)
 contest 英 [ˈkɒntest , kənˈtest]   美 [ˈkɑːntest , kənˈtest]  
 n.比赛;竞赛
+could you help me to secure a seat by the window 你能帮我找个靠窗户的座位吗
 
 
 Conservative  MPs will begin the process of choosing their new leader and the next prime minister later when a first round of voting is held in Parliament.
