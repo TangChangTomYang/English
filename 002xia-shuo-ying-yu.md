@@ -328,7 +328,18 @@ Any of the 10 candidates who fails to secure at least 17 votes will be eliminate
 
 
 
+***
+<br><br>
 
+#### 0618亚马逊涉嫌擅自收集用户信息
+
+
+Amazon is being sued over its smart assistant's recordings of children.
+
+Two US cases allege the firm lacks consent to create voiceprints that could let it keep track of a youngster's use of Alexa-enabled devices and thus build up a "vast level of detail about the child's life"
+
+
+Amazon has said it only stores data once a device-owner has given it permission to do so.
 
 
 
