@@ -342,8 +342,18 @@ adj.坚固的;坚硬的;结实的;坚定的;确定的;坚决的;牢固的;稳固
 adv.稳固地v.使强壮;使坚固;使坚实;坚挺;稳步上涨
 consent 英 [kənˈsent]   美 [kənˈsent]  
 n.同意;准许;允许;赞同;正式批准文件;批文v.同意;准许;允许
+verbal / written consent 口头/ 书面同意
+verbal 英 [ˈvɜːbl]   美 [ˈvɜːrbl]  adj.文字的;言语的;词语的;口头(而非书面)的;动词的
+he gave his verbal consent to have the interview taped. 他口头上同意将采访录下来
 youngster 英 [ˈjʌŋstə(r)]   美 [ˈjʌŋstər]  n.年轻人;少年;儿童
 thus英 [ðʌs]   美 [ðʌs]  adv.以此方式;如此;这样;因此;从而;所以
+voiceprint 声纹
+fingerprint 指纹
+keep track of 注意到 (pay attention to)
+sorry, I just lost all track of time 不好意思, 我忘了看时间
+Nobody could keep track of all the winners 没人会记得所有这些赢家
+build up 积累, 逐渐增加
+
 
 
 Amazon [ˈæməzən] is being sued  [suːd] over its smart assistant's recordings of children.
