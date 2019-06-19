@@ -357,6 +357,7 @@ build up 积累, 逐渐增加
 
 
 
+
 Amazon [ˈæməzən] is being sued  [suːd] over its smart assistant's recordings of children.
 
 Two US cases allege [əˈledʒ] the firm '公司' lacks consent [kənˈsent] to create voiceprints that could let it keep track of a youngster's use of Alexa-enabled devices and thus build up a "vast level of detail about the child's life"
@@ -368,6 +369,44 @@ Amazon has said it only stores data once a device-owner has given it permission 
 
 
 
+
+****
+
+<br><br>
+
+#### 0619高房租下的英国年轻人
+
+> rent 英 [rent] 美 [rent]  n.租金,房租 v.出租, 租用
+eg: you can rent a house, rent a car.
+less likely 不太可能
+indicate 英 [ˈɪndɪkeɪt]   美 [ˈɪndɪkeɪt]  v.表明;显示;
+private rented accommodation 私人租赁房
+half 减半
+halved halved英 [hɑːvd]   美 [hævd]  v.(使)减半;把…对半分
+despite 英 [dɪˈspaɪt]   美 [dɪˈspaɪt]  prep. 即使;尽管;尽管(自己)不愿意
+wage 英 [weɪdʒ]   美 [weɪdʒ]  n.(通常指按周领的)工资，工钱v.开始，发动，进行，继续(战争、战斗等)
+financial 英 [faɪˈnænʃl]   美 [faɪˈnænʃl]  adj.财政的;财务的;金融的;有钱的
+incentive 英 [ɪnˈsentɪv]   美 [ɪnˈsentɪv]  n.激励;刺激;鼓励
+financial incentives 经济上的刺激
+pay gains 工资收益
+gain 英 [ɡeɪn]   美 [ɡeɪn]   v.
+获得;赢得;博得;取得;(从…中)受益，获益;得到(好处);增加;增添;增进;增长
+n.(尤指财富、重量的)增值，增加;好处;利益;改进;利润;经济收益
+swallow 英 [ˈswɒləʊ]   美 [ˈswɑːloʊ]  v.吞下;咽下;(由于紧张等)做吞咽动作;吞没;淹没;侵吞 n.燕;咽;吞;一次吞咽的量;一口
+resolution 英 [ˌrezəˈluːʃn]   美 [ˌrezəˈluːʃn]  n.决议;正式决定;(问题、分歧等的)解决，消除;坚定;坚决;有决心
+
+
+
+
+Rising [ˈraɪzɪŋ]  rents  mean young people are less likely to move to UK cities where average salaries  are higher, a report indicates.
+
+The number of young people in private rented accommodation who moved for a new job has almost halved in 20 years. // 在过去20年几乎减半
+
+Despite the higher wages  available , financial incentives for moving are lower, say researchers.
+
+"Pay gains are being swallowed up by high housing casts," said Lindsay Judge of the Resolution Foundation.
+
+ 
 
 
 
