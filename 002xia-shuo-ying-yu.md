@@ -411,6 +411,44 @@ Despite the higher wages  available , financial incentives for moving are lower,
 
 
 
+****
+<br><br>
+
+
+#### 0625 英国皇室嘉德日
+
+> Garter day 嘉德日
+the Order of Garter 嘉德勋wei3 (Order : 被授勋的人)
+mark vt标志着
+This year marks her 10th year with the company. 今年是她在公司工作的第十个年头
+mark n标记, (引申为某种影响)
+leave its mark on somebody/ something (给某人或某事留下印记)
+Growing up in the shadow of Oliver had already left its mark on Richard.  在奥利弗的影阴下长大已经给理查德身上留下了印记.
+investiture 英 [ɪnˈvestɪtʃə(r)]   美 [ɪnˈvestɪtʃər]  n.授衔仪式;授权仪式
+occasion 英 [əˈkeɪʒn]   美 [əˈkeɪʒn]  n 场合
+a special occasion 特殊场合
+
+
+
+
+
+
+
+
+
+
+
+Garter day is the day each year when members of the Order of the Garter gather at Windsor Castle for an annual meeting.
+
+
+In years where new members are being brought into the order, this day also marks the occasion of their official in vestiture ceremony.
+
+It is a very formal occasion, at which the members of the Order wear their elaborate ceremonial robes and insignia.
+
+
+
+
+
 
 
 
