@@ -366,7 +366,30 @@ Two US cases allege [əˈledʒ] the firm '公司' lacks consent [kənˈsent] to 
 Amazon has said it only stores data once a device-owner has given it permission to do so.
 
 
+****
+<br> <br>
 
+#### 0624 苹果加入反川普关税'合唱队'
+
+
+>  chorus英 [ˈkɔːrəs]   美 [ˈkɔːrəs]  n.副歌;合唱曲;合唱团;歌咏队v.合唱;齐声说;异口同声地说
+urge 英 [ɜːdʒ]   美 [ɜːrdʒ]  v.敦促;催促;力劝;大力推荐;竭力主张;驱赶;鞭策n.强烈的欲望;冲动
+drop 放弃
+tariff 英 [ˈtærɪf]   美 [ˈtærɪf]  n.关税;  (duty关税)
+duty英 [ˈdjuːti]   美 [ˈduːti]  n.责任;义务;本分;上班;值班;职责;任务
+impose英 [ɪmˈpəʊz]   美 [ɪmˈpoʊz]  v.推行，采用(规章制度);强制实行;迫使;把…强加于;
+impose duties 施加关税
+impose influence 施加影响
+influence 英 [ˈɪnfluəns]   美 [ˈɪnfluəns]  n.影响;作用;
+tilt 英 [tɪlt]   美 [tɪlt]  v.(使)倾斜，倾侧;使倾向于;使向…倾斜;偏向
+
+
+
+Apple has joined a growing chorus of firms urging the Trump administration to drop a plan for more US  tariffs on chinese goods.
+
+The US has said it may impose duties on $300bn worth  of chinese products if two sides can't reach a trade deal 
+
+the tech giant said  the duties would " tilt the playing field" to its global rivals
 
 
 
@@ -432,13 +455,6 @@ a rare occasion 个别场合
 elaborate英 [ɪˈlæbərət , ɪˈlæbəreɪt]   美 [ɪˈlæbərət , ɪˈlæbəreɪt]  adj.复杂的;详尽的;精心制作的, vt 详细阐述
 he told me the story in elaborate detail. 他把这个故事阐述的非常详尽
 Sorry, I don't think I understand that, can you elaborate on that , please ? 不好意思, 我没太明白, 你能详细解释一下吗
-
-
-
-
-
-
-
 
 
 
