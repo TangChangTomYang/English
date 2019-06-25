@@ -427,7 +427,11 @@ Growing up in the shadow of Oliver had already left its mark on Richard.  在奥
 investiture 英 [ɪnˈvestɪtʃə(r)]   美 [ɪnˈvestɪtʃər]  n.授衔仪式;授权仪式
 occasion 英 [əˈkeɪʒn]   美 [əˈkeɪʒn]  n 场合
 a special occasion 特殊场合
-
+a social occasion 社交场合
+a rare occasion 个别场合
+elaborate英 [ɪˈlæbərət , ɪˈlæbəreɪt]   美 [ɪˈlæbərət , ɪˈlæbəreɪt]  adj.复杂的;详尽的;精心制作的, vt 详细阐述
+he told me the story in elaborate detail. 他把这个故事阐述的非常详尽
+Sorry, I don't think I understand that, can you elaborate on that , please ? 不好意思, 我没太明白, 你能详细解释一下吗
 
 
 
