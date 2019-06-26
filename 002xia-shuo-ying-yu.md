@@ -468,6 +468,35 @@ It is a very formal occasion, at which the members of the Order wear their elabo
 
 
 
+****
+<br>
+<br>
+
+#### 0626 美方对伊朗发起网络攻击
+
+
+> cyber-attack 
+pull out 撤回
+strike 英 [straɪk]   美 [straɪk]  v.撞;碰;撞击;碰撞;打;击;击打，踢(球等)n.罢工;罢课;罢市;军事进攻;袭击;(尤指)空袭;击;打;踢
+air strike
+missile 英 [ˈmɪsaɪl]   美 [ˈmɪsl]  n.导弹;发射物;投掷物
+retaliation 英 [rɪˌtæliˈeɪʃn]   美 [rɪˌtæliˈeɪʃn]  n.报复
+drone 英 [drəʊn]   美 [droʊn]  n.嗡嗡声;雄蜂v.嗡嗡叫;嗡嗡响, 无人机
+tank 英 [tæŋk]   美 [tæŋk]  
+n.(贮放液体或气体的)箱，槽，罐;箱(或桶等)所装之物;一箱(或一桶等)的量;坦克
+v.彻底失败;破产;倒闭;(尤指故意)输掉(比赛)
+oil tanker 油轮
+
+
+
+
+The US launched a cyber-attack on Iranian weapons systems on Thursday as prisident Trump pulled out of air strikes on the country, US reports say.
+
+The cyber-attack disabled computer systems controlling rocket and missile launchers , the Washington Post said .
+
+It was in retaliation for the shooting down of US  drone as well as attacks on oil tankers that the US  has blamed Iran for, the New York Times said.
+
+
 
 
 
