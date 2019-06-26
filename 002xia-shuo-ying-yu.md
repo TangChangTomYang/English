@@ -20,9 +20,9 @@ v.上船(或火车、飞机、公共汽车等);让乘客登机(或上船等);付
 board of directors 董事会
 
 
-```
+
 A vote calling for Mark Zuckerberg to stand down 
-as Facebook's chairman is expected to take palce  
+as Facebook's chairman is expected to take palce 
 at the company's annual general meeting on Thursday
 
 Mr Zuckerberg is both Facebook's chief executive and 
@@ -31,7 +31,7 @@ the chairman of its board of directors.
 those calling for him to step down as chairman 
 say this would help him focus on running the company
 
-```
+
 
 
 
@@ -67,7 +67,7 @@ prosecution 英 [ˌprɒsɪˈkjuːʃn]   美 [ˌprɑːsɪˈkjuːʃn]
 n.(被)起诉，检举;诉讼;原告，控方(包括原告和原告律师等);实施;从事;进行
 crowdfund [kraʊd] [fʌnd] vt 众筹
 
-```
+
 Boris Johnson has been ordered to appear in court over claims '[kleɪmz]'
 he lied by saying the UK gave the EU $300m a week.
 
@@ -77,7 +77,6 @@ referendum campaign
 
 It is a private prosecution launched of by campaigner Marcus Ball, 
 who crowdfunded $200000 for the case.
-```
 
 
 ***
@@ -116,13 +115,13 @@ suffer 遭受, 忍受
 thirty [ˈθɜːti]  三十
 eight 英 [eɪt] 8
 
-```
+
 On May 22nd the World Health Organisation (WHO) declared Algeria [æl'dʒɪərɪə] and Argentina [ˌɑ:dʒənˈti:nə] 
-malaria-free [məˈleəriə],bringing to 38 the nuber of countries now officially  [əˈfɪʃəli] rid of the disease [dɪˈziːz].
+malaria-free [məˈleəriə],bringing to 38 the number of countries now officially  [əˈfɪʃəli] rid of the disease [dɪˈziːz].
 
 Algeria [æl'dʒɪərɪə] will be regarded as a particular success because it is in Africa ['æfrɪkə].
 The continent [ˈkɒntɪnənt] suffered 90% of an estimated 219m cases worldwide in 2017
-```
+
 
 ***
 
@@ -141,7 +140,7 @@ Israeli 以色列的, 以色列人的
 
 
  
-Israeli law makes have voted to disssolve pariament after Prime Minister Benjamin Netanyahu failed to form a coalition government.
+Israeli law makes have voted to disssolve parliament after Prime Minister Benjamin Netanyahu failed to form a coalition government.
 
 The vote triggered a fresh election, which will be held on 17 September.
 
@@ -234,7 +233,7 @@ When presidents embark [ɪmˈbɑːk] on prestigious [preˈstɪdʒəs] state [ste
 
 But when President Trump arrived in London on Monday for a long-delayed state visit to Britain [ˈbrɪtn], he ignored both custom.
 
-Circling back to a long feud[fjuːd with Sadiq Khan, London's first Muslim [ˈmʊzlɪm] mayor [meə(r)]  and a vocal[ˈvəʊkl] critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' [ˈnɑːsti]  to the visiting President of the United States, by far the most importantally of the United Kingdom"
+Circling back to a long feud[fjuːd] with Sadiq Khan, London's first Muslim [ˈmʊzlɪm] mayor [meə(r)]  and a vocal[ˈvəʊkl] critic of Trump, the president tweeted: "@Sadiq Khan, who by all accounts has done a terrible job as Mayor of London, has been foolishly 'nasty' [ˈnɑːsti]  to the visiting President of the United States, by far the most importantally of the United Kingdom"
 
 
 
