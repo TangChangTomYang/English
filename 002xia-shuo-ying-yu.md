@@ -499,6 +499,19 @@ It was in retaliation for the shooting down of US  drone as well as attacks on o
 
 
 
+****
+<br><br>
+
+#### 0627 冬奥会主办国尘埃落定
+
+Like  an exhausted biathlete, the host of 2026's Winter Olympics will stagger to victory today at the International Olympic Committee's new headquarters in lausanne.
+
+Only two of the origin seven competitors remain: a join Italian bid by Milan and Cortinad'sAmpezzo is ahead of a Wwedish one from Stockholm and Are. Would-be hosts are increasingly put off by the cost.
+
+Beyond Olympic woes, winter sports face two longer-term worries: ageing populations and global warming.
+
+
+
 
 
 
