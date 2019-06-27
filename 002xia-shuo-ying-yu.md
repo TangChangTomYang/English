@@ -504,9 +504,42 @@ It was in retaliation for the shooting down of US  drone as well as attacks on o
 
 #### 0627 冬奥会主办国尘埃落定
 
+
+> biathlete n.射击运动员;冬季两项选手
+exhausted 英 [ɪɡˈzɔːstɪd]   美 [ɪɡˈzɔːstɪd]  adj.筋疲力尽的;疲惫不堪的;用完的;耗尽的;枯竭的v.使筋疲力尽;使疲惫不堪;
+stagger 英 [ˈstæɡə(r)]   美 [ˈstæɡər]  
+he staggered back a step 他踉跄着朝后退了一步
+v.摇摇晃晃地走;蹒跚;踉跄;使震惊;使大吃一惊;使交错;使错开n.摇晃;一种不稳定形式，
+victory 英 [ˈvɪktəri]   美 [ˈvɪktəri]  n.胜利;成功
+committee 英 [kəˈmɪti]   美 [kəˈmɪti]  n.委员会
+headquarters 英 [ˌhedˈkwɔːtəz]   美 [ˈhedkwɔːrtərz]  n.总部;总公司;大本营;司令部
+headquarter 英 [ˌhɛdˈkwɔːtə]   美 [ˈhɛdˌkwɔrtər]  v.设立总部;在…设总部
+the new headquarters of Amazon will headquarter in NY 亚马逊新总部将会设在纽约
+
+lausanne 美 [ˌlɔˈsæn]  洛桑;洛桑市;瑞士洛桑
+competitor 英 [kəmˈpetɪtə(r)]   美 [kəmˈpetɪtər]  n.(尤指商业方面的)竞争者，对手;参赛者;竞赛者
+remain 英 [rɪˈmeɪn]   美 [rɪˈmeɪn]  v.仍然是;保持不变;剩余;遗留;继续存在;仍需去做(或说、处理)
+Milan 英 [mɪˈlæn]   美 [məˈlɑn]  n.米兰(意大利北部城市);代号“米兰”，（法）反坦克导弹
+cortinad 柯尔蒂那
+ampezzo 安培佐
+Wwedish W.爱迪生
+Stockholm 英 [ˈstɒkhəʊm]   美 [ˈstɒkˌhoʊlm]  n.斯德哥尔摩
+increasingly 英 [ɪnˈkriːsɪŋli]   美 [ɪnˈkriːsɪŋli]  adv.越来越多地;不断增加地
+worn 英 [wɔːn]   美 [wɔːrn]  adj.用坏的;用旧的;磨薄的;疲惫的;筋疲力尽的v.穿;戴;佩戴;蓄，留(发、须等);流露，面带，呈现(某种神态)wear的过去分词
+you look worn out 你看起来累极了
+joint 英 [dʒɔɪnt]   美 [dʒɔɪnt]  adj.联合的;共同的
+joint venture ( [ˈventʃə(r)] 企业,商业) 合资企业
+joint statement 联合声明
+would-be 想要成为的
+put off 推迟, 打消...的念头 
+the meeting is put off 此次会议推迟了
+Don't let the restaurant's decoration put you off, the food is really good. 别为这家餐厅的装修而打退堂鼓, 他家东西真好吃.
+woe 英 [wəʊ]   美 [woʊ]  n.麻烦;问题;困难;痛苦;苦恼;悲伤;悲哀
+the country's economic woes 经济困境
+
 Like  an exhausted biathlete, the host of 2026's Winter Olympics will stagger to victory today at the International Olympic Committee's new headquarters in lausanne.
 
-Only two of the origin seven competitors remain: a join Italian bid by Milan and Cortinad'sAmpezzo is ahead of a Wwedish one from Stockholm and Are. Would-be hosts are increasingly put off by the cost.
+Only two of the origin seven competitors remain: a joint Italian bid by Milan and Cortinad'sAmpezzo is ahead of a Wwedish one from Stockholm and Are. Would-be hosts are increasingly put off by the cost.
 
 Beyond Olympic woes, winter sports face two longer-term worries: ageing populations and global warming.
 
