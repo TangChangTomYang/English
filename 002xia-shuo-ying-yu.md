@@ -515,7 +515,6 @@ committee 英 [kəˈmɪti]   美 [kəˈmɪti]  n.委员会
 headquarters 英 [ˌhedˈkwɔːtəz]   美 [ˈhedkwɔːrtərz]  n.总部;总公司;大本营;司令部
 headquarter 英 [ˌhɛdˈkwɔːtə]   美 [ˈhɛdˌkwɔrtər]  v.设立总部;在…设总部
 the new headquarters of Amazon will headquarter in NY 亚马逊新总部将会设在纽约
-
 lausanne 美 [ˌlɔˈsæn]  洛桑;洛桑市;瑞士洛桑
 competitor 英 [kəmˈpetɪtə(r)]   美 [kəmˈpetɪtər]  n.(尤指商业方面的)竞争者，对手;参赛者;竞赛者
 remain 英 [rɪˈmeɪn]   美 [rɪˈmeɪn]  v.仍然是;保持不变;剩余;遗留;继续存在;仍需去做(或说、处理)
@@ -544,6 +543,24 @@ Only two of the origin seven competitors remain: a joint Italian bid by Milan an
 Beyond Olympic woes, winter sports face two longer-term worries: ageing populations and global warming.
 
 
+
+
+
+***
+<br><br>
+
+
+#### 0628 英国保守党党魁候选人私人争吵事件
+> row 英 [raʊ]   v.吵架;大声争辩
+row 英 [rəʊ]  n.一排;一列;一行;(剧院、电影院等的)一排座位;(编织中的)针行，一整行v.划(船);划船送(某人)
+
+
+
+Boris Johnson has refused to answer questions about reports of row between him and his partner in which police were called.
+
+Speeking at a tory Party hustings in Birmingham, Mr Johnson said poeple did not "want to hear" about the reported row between him and Carrie Symonds.
+
+The Guardian had said Ms Symonds was heard telling the Tory MP to "get off me" and "get out of my flat"
 
 
 
