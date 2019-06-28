@@ -553,8 +553,14 @@ Beyond Olympic woes, winter sports face two longer-term worries: ageing populati
 #### 0628 英国保守党党魁候选人私人争吵事件
 > row 英 [raʊ]   v.吵架;大声争辩
 row 英 [rəʊ]  n.一排;一列;一行;(剧院、电影院等的)一排座位;(编织中的)针行，一整行v.划(船);划船送(某人)
-
-
+hustings 英 [ˈhʌstɪŋz] n.竞选活动(竞选前进行的政治集会、演讲等)
+campaign speech/ campaign convention 竞选演说
+flat 公寓
+apartment 公寓
+guardian 英 [ˈɡɑːdiən]   美 [ˈɡɑːrdiən]  n.保护者;守卫者;保卫者;(尤指双亲已故孩子的)监护人
+Ms Symonds 西蒙兹女士
+get off me 离我远点
+get out of my flat 
 
 Boris Johnson has refused to answer questions about reports of row between him and his partner in which police were called.
 
