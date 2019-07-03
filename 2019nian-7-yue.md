@@ -51,11 +51,16 @@ The 10-episode planned show centers on a chinese family running a restaurant in 
  fort [ˈfɔːtI] n 堡垒
 fortified英 [ˈfɔːtɪfaɪd]   美 [ˈfɔːrtɪfaɪd]  v.筑防御工事以防卫;(尤指)筑城防御;(在物质或精神上)加强，增强;增强(感觉或态度) 
 fortify 英 [ˈfɔːtɪfaɪ]   美 [ˈfɔːrtɪfaɪ]  v.筑防御工事以防卫;(尤指)筑城防御;(在物质或精神上)加强，增强;
+military 军事的
+
 demilitazized 非军事化
 theatre 英 [ˈθɪətə(r)]   美 [ˈθiːətər]  n.戏院;剧场;露天剧场;戏剧;戏剧工作;剧作;演出;上演
 sitting 在任的
-
-
+incumbent 现任的
+former 前任的
+heavily fortified zone 防卫甚严的
+dismiss 对... 不屑一顾
+political theatre 政治秀
  
  US President Donald Trump has shared a symbolic handshake with North Korean leader Kim Jong-un in the heavily fortified zone dividing the two Koreas.
  
