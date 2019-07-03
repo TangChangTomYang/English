@@ -32,3 +32,39 @@ The 10-episode planned show centers on a chinese family running a restaurant in 
 > 据熟悉前两部剧本的人说，这部10集的节目以一个在曼彻斯特经营一家餐馆的中国家庭为中心，
 由一位父亲在名为“炒锅和面包卷”的乐队中表演，还有一位奶奶“整天吐在地板上吃幸运饼干”。
  
+ 
+ 
+ 
+ 
+ ***
+ <br><br>
+ 
+ #### 0703 美朝领导人的历史性握手
+ 
+ > share a handshake  双手握在一起握手
+ symbolic 英 [sɪmˈbɒlɪk]   美 [sɪmˈbɑːlɪk]  adj.使用象征的;作为象征的;象征性的
+ symbol 英 [ˈsɪmbl]   美 [ˈsɪmbl]  n.象征;符号;代号;记号
+ North Korean 英 [ˌnɔːθ kəˈriən]   美 [ˌnɔːrθ kəˈriən]  朝鲜人;北朝鲜;出自朝鲜;北朝鲜人
+ Korean 英 [kəˈriən]   美 [kəˈriən]  n.朝鲜(或韩国)人;朝鲜(或韩国)裔人;朝鲜语;韩国语adj.朝鲜(或韩国)的;朝鲜(或韩国)人的;朝鲜(或韩)语的;朝鲜(或韩国)文化的
+ Kim Jong-un金正恩;金正云;金正银;金反恩
+ heavily英 [ˈhevɪli]   美 [ˈhevɪli]  adv.在很大程度上;大量地;以猛力;沉重地;身材壮实
+ fort [ˈfɔːtI] n 堡垒
+fortified英 [ˈfɔːtɪfaɪd]   美 [ˈfɔːrtɪfaɪd]  v.筑防御工事以防卫;(尤指)筑城防御;(在物质或精神上)加强，增强;增强(感觉或态度) 
+fortify 英 [ˈfɔːtɪfaɪ]   美 [ˈfɔːrtɪfaɪ]  v.筑防御工事以防卫;(尤指)筑城防御;(在物质或精神上)加强，增强;
+demilitazized 非军事化
+theatre 英 [ˈθɪətə(r)]   美 [ˈθiːətər]  n.戏院;剧场;露天剧场;戏剧;戏剧工作;剧作;演出;上演
+sitting 在任的
+
+
+ 
+ US President Donald Trump has shared a symbolic handshake with North Korean leader Kim Jong-un in the heavily fortified zone dividing the two Koreas.
+ 
+ Mr Trump became the first sitting US president to set foot in North Korea after meeting Mr Kim at the demilitazized zone.
+ 
+ Critics have dismissed it as pure political theatre, but others say it could set the scene for future talks.
+ 
+ 
+ 
+ 
+ 
+ 
