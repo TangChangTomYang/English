@@ -72,7 +72,49 @@ political theatre 政治秀
  
  
  
+ ***
+ <br><br>
  
+ #### 0704 旧金山全美首禁电子烟
+ 
+ > mayor 市长
+ county mayor 县长/ district mayor 区长/ town mayor 乡长
+ county 英 [ˈkaʊnti]   美 [ˈkaʊnti]  n.(英国、爱尔兰的)郡;(美国的)县
+ district 区域
+ town 镇/ 集镇
+ sign 英 [saɪn]   美 [saɪn]  n.迹象;征兆;预兆;招牌;标牌;指示牌;标志;示意的动作(或声音);手势v.签(名);署(名);签字;签署;
+ legislation 英 [ˌledʒɪsˈleɪʃn]   美 [ˌledʒɪsˈleɪʃn]  n.法规;法律;立法;制订法律
+ ban 英 [bæn]   美 [bæn]  v.明令禁止;取缔;禁止(某人)做某事(或去某处等)n.禁令
+ e-cigarettes 电子烟
+ prohibit 英 [prəˈhɪbɪt]   美 [prəˈhɪbɪt]  v.(尤指以法令)禁止;阻止;使不可能
+stocking 英 [ˈstɒkɪŋ]   美 [ˈstɑːkɪŋ]  n.  长筒女袜 v.存货;贮备，贮存(食物、书籍等) 
+ vapor 英 [ˈveɪpə(r)]   美 [ˈveɪpər]  n.蒸汽，水气v.蒸发
+ vaporisers 汽化器
+ vaping 打气
+ fluid 英 [ˈfluːɪd]   美 [ˈfluːɪd]  n.液体;流体;液adj.流畅优美的;易变的;不稳定的;流动的;流体的
+ vape 电子烟
+ argue 英 [ˈɑːɡjuː]   美 [ˈɑːrɡjuː]  v.争论;争吵;争辩;论证;说理;证明;表明
+ inhaling 英 [ɪnˈheɪlɪŋ]   美 [ɪnˈheɪlɪŋ]  v.吸入;吸气
+make sth/sb the first to do sth 使之成为首例
+Huawei has announced its successful development of 5G technologies, making China a leading nation in the field. 华为宣布研发出5G技术, 使得中国成为这个领域的领先国家
+prohibit sb from doing sth 禁止某人做某事   同义词 ban / forbit
+vapour 蒸汽
+water vapour 水蒸气
+risk-free 无风险的
+duty-free 免税的 smoke-free 无烟的
+inhale 英 [ɪnˈheɪl]   美 [ɪnˈheɪl]  v.吸入;吸气  
+exhale 英 [eksˈheɪl]   美 [eksˈheɪl]  v.呼出，吐出(肺中的空气、烟等);呼气
+quit 离开 停止
+quit job 离职
+quit tobacco == give up smoking 戒烟
+ 
+ 
+ This week London Breed, San Francisco's mayor,  will sign legislation making the city the first in America to ban the sale of e-cigarettes.
+ 
+ Shops will be prohibited from stocking vaporisers and vaping fluid, and online vape stores from delivering to local addresses.
+ 
+ 
+ Health officials argue that e-smoking's effects are unclear. But even if vaping is not risk-free, it is almost certainly much safer than inhaling cigarette smoke . Quitting tobacco is not easy, while many find vaping an effective way of giveing up.
  
  
  
